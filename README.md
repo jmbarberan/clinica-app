@@ -1,3 +1,9 @@
+Para acceder a la app utilice las sgtes. credenciales:
+usuario: admin
+contraseña: admin
+
+Para consultar las citas medicas, el seed tiene citas registradas con fecha entre los años 2018 a 2021
+
 # clinica-app
 
 ## Project setup
